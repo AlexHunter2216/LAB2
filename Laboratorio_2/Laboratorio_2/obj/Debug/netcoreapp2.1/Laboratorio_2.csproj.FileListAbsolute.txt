@@ -1,0 +1,11 @@
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp2.1\Laboratorio_2.deps.json
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp2.1\Laboratorio_2.runtimeconfig.json
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp2.1\Laboratorio_2.runtimeconfig.dev.json
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp2.1\Laboratorio_2.dll
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp2.1\Laboratorio_2.pdb
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.csprojAssemblyReference.cache
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.AssemblyInfoInputs.cache
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.AssemblyInfo.cs
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.dll
+C:\Users\Alexandre Ju\Desktop\Alexandre Judah\Jogos Digitais\Faculdade\PROGJOGOS\3ºSEMESTRE\ORIENTAÇÃO A OBJETO\deveres de casa\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp2.1\Laboratorio_2.pdb
